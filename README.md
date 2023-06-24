@@ -19,4 +19,7 @@ run the script under root like this:
 
 ``` sudo python3 BlackArch-Install.py ```
 
+it will take a while im not sure how big every tool is
+but it could take a couple hours or so.
+
 then boom enjoy ;)
